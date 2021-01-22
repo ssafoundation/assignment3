@@ -35,6 +35,7 @@ console.log(totalBudget);
 
 
 // hotel rent 
+
 function hotelCost(perDay) {
     var perDayCost = 0;
 
@@ -61,34 +62,7 @@ console.log(totalCost);
 // hotel rent
 
 
-
-
-
 // =====================================
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 //mega-friend
