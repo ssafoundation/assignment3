@@ -9,10 +9,14 @@ function kilometerToMeter(meter) {
 }
 var totalMeter = kilometerToMeter(1);
 console.log(totalMeter);
-//kilometer To Meter
-// ======================================
-// budget
 
+//kilometer To Meter
+
+
+// ======================================
+
+
+// budget
 
 function budgetCalculator(watch, mobile, laptop) {
     watch = watch * 50;
@@ -25,7 +29,11 @@ var totalBudget = budgetCalculator(1, 2, 3);
 console.log(totalBudget);
 
 // budget
+
+
 // ===================================
+
+
 // hotel rent 
 function hotelCost(perDay) {
     var perDayCost = 0;
@@ -51,7 +59,38 @@ var totalCost = hotelCost(50);
 console.log(totalCost);
 
 // hotel rent
+
+
+
+
+
 // =====================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //mega-friend
 var friendList = ['kafi', 'rafi', 'hadi', 'tamim', 'iqbal', 'topu', 'akhtaruzzaman', 'monyr'];
 var frinds = '';
